@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-18T23:57:52 IST" name="Default suite" finished-at="2021-05-18T23:57:52 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2021-05-18T23:57:52 IST" name="Default test" finished-at="2021-05-18T23:57:52 IST" duration-ms="33">
+      <class name="simple_annotations.Demo_annotations">
+        <test-method is-config="true" signature="setproperty()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="setproperty" finished-at="2021-05-18T23:57:52 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setproperty -->
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="browserlaunch" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method is-config="true" signature="url()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="url" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="login()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="login" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="bat()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="bat" finished-at="2021-05-18T23:57:52 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bat -->
+        <test-method is-config="true" signature="login()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="login" finished-at="2021-05-18T23:57:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="earphone()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="earphone" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earphone -->
+        <test-method signature="shoes()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="shoes" finished-at="2021-05-18T23:57:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoes -->
+        <test-method is-config="true" signature="login()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="login" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="verifyhome()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="verifyhome" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhome -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="close" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="delet()[pri:0, instance:simple_annotations.Demo_annotations@69997e9d]" started-at="2021-05-18T23:57:52 IST" name="delet" finished-at="2021-05-18T23:57:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delet -->
+      </class> <!-- simple_annotations.Demo_annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
